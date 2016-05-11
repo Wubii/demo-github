@@ -1,2 +1,2 @@
 # demo-github
-exercice pratique
+Exercice pratique pour progresser avec github
